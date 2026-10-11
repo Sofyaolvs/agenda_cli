@@ -1,0 +1,13 @@
+# Artefatos de compilação e dependências baixadas
+/_build/
+/deps/
+/cover/
+/doc/
+erl_crash.dump
+*.ez
+agenda_cli-*.tar
+/tmp/
+/.elixir_ls/
+
+# Dados locais da agenda
+contacts.json
